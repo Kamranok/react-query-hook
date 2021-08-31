@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-query-hook/static/css/main.8744b44d.chunk.css",
+    "main.css": "/react-query-hook/static/css/main.c5d294e1.chunk.css",
     "main.js": "/react-query-hook/static/js/main.e6d0d48d.chunk.js",
     "main.js.map": "/react-query-hook/static/js/main.e6d0d48d.chunk.js.map",
     "runtime-main.js": "/react-query-hook/static/js/runtime-main.60be81dc.js",
@@ -8,15 +8,15 @@
     "static/js/2.3182fc6f.chunk.js": "/react-query-hook/static/js/2.3182fc6f.chunk.js",
     "static/js/2.3182fc6f.chunk.js.map": "/react-query-hook/static/js/2.3182fc6f.chunk.js.map",
     "index.html": "/react-query-hook/index.html",
-    "precache-manifest.645b504472c5b294a8fba8387f48dd47.js": "/react-query-hook/precache-manifest.645b504472c5b294a8fba8387f48dd47.js",
+    "precache-manifest.bef348b2de0d2ac128f8ba9c58dd2abf.js": "/react-query-hook/precache-manifest.bef348b2de0d2ac128f8ba9c58dd2abf.js",
     "service-worker.js": "/react-query-hook/service-worker.js",
-    "static/css/main.8744b44d.chunk.css.map": "/react-query-hook/static/css/main.8744b44d.chunk.css.map",
+    "static/css/main.c5d294e1.chunk.css.map": "/react-query-hook/static/css/main.c5d294e1.chunk.css.map",
     "static/js/2.3182fc6f.chunk.js.LICENSE.txt": "/react-query-hook/static/js/2.3182fc6f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.60be81dc.js",
     "static/js/2.3182fc6f.chunk.js",
-    "static/css/main.8744b44d.chunk.css",
+    "static/css/main.c5d294e1.chunk.css",
     "static/js/main.e6d0d48d.chunk.js"
   ]
 }
